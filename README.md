@@ -4,6 +4,8 @@
 ## Project Overview
 This repository contains an Excel-based Coffee Sales Analysis Dashboard. The dashboard provides an in-depth analysis of coffee sales data by leveraging advanced Excel features to deliver key business insights. The purpose of this project is to demonstrate the power of Excel for data analysis, data visualization, and decision-making.
 
+![Dashboard](Images/Coffee_Sales_Dashboard.png)
+
 ## Features of the Dashboard
 1. **Sales Trend Analysis**: Visualize sales trends over different time periods, allowing users to identify peak sales periods.
 2. **Product Performance**: Analyze sales by different coffee products to determine the best and worst performers.
